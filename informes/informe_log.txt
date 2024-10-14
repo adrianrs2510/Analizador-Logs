@@ -1,0 +1,10 @@
+Estadísticas del análisis de logs:
+
+Conteo de logs por nivel:
+ERROR: 3
+INFO: 3
+WARNING: 2
+
+Errores más comunes:
+No se pudo conectar a la base de datos: 2
+No se pudo encontrar el archivo de configuración: 1
